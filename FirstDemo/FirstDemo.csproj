@@ -49,6 +49,7 @@
     <Compile Include="demo2cs.cs" />
     <Compile Include="Display1To100.cs" />
     <Compile Include="Divisble.cs" />
+    <Compile Include="EightPattern.cs" />
     <Compile Include="Even&amp;Odd.cs" />
     <Compile Include="EvenFrom1TO100.cs" />
     <Compile Include="Factorial.cs" />
