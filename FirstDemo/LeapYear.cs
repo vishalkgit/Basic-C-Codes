@@ -10,7 +10,15 @@ namespace FirstDemo
     {
         //static void Main(string[] args)
         //{
-                
+        //    int year = 2024;
+        //    if (year % 4 == 0)
+        //    {
+        //        Console.WriteLine("It is a Leap Year");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Not a Leap Year");
+        //    }
         //}
     }
     }

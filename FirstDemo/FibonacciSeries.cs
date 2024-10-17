@@ -10,27 +10,17 @@ namespace FirstDemo
     {
         //static void Main(string[] args)
         //{
-        //    Console.WriteLine("Please Enter a Number of terms");
-        //    int terms=Convert.ToInt32(Console.ReadLine());
-
-        //    if(terms<1)
+        //    int term = 10;
+        //    int firstNum = 0, SecNum = 1, nextNum;
+        //    for(int i = 0; i <= term;i++)
         //    {
-        //        Console.WriteLine("Please enter terms above 1");
+        //        Console.WriteLine(firstNum+" ");
+        //        nextNum = firstNum + SecNum;
+        //        firstNum = SecNum;
+        //        SecNum = nextNum;
         //    }
 
 
-        //    int a = 0,b = 1;
-
-        //    for(int i=0;i< terms;i++)
-        //    {
-        //        Console.WriteLine(a);
-        //        int next = a + b;
-        //        a = b;
-        //        b=next;
-
-        //    }
-
-            
         //}
     }
 }
