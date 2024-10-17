@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//fifth pattern program
 namespace FirstDemo
 {
-    internal class PrintOutput
+    internal class FifthPattern
     {
-        //static void Main(string[] args)
-        //{
-            // for git demo
-        //}
     }
 }
